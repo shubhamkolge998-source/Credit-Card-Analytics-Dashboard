@@ -34,15 +34,21 @@ This interactive dashboard enables banks and financial institutions to make data
 ### 🗺️ State-wise Usage
 - Top-performing states: **TX**, **CA**, and **NY**
 
-✨ Festive Season Insights
-Festivals like Diwali, Ganesh Chaturthi, and Christmas drive a significant surge in spending, with customers purchasing electronics, vehicles, property, and luxury goods.
-Strategic interventions during this period can maximize card adoption and revenue:
+## ✨ Festive Season Insights
 
-📌 Recommendations:
-• Launch targeted festive campaigns with EMI & cashback offers.
-• Focus on metro/high-income segments with personalized card limits & rewards.
-• Leverage historical data for predictive offers and reactivation of dormant cardholders.
-• Encourage both offline and online POS usage through loyalty programs.
+- Festivals like **Diwali**, **Ganesh Chaturthi**, and **Christmas** drive a **significant surge in spending**, with customers purchasing:
+  - Electronics  
+  - Vehicles  
+  - Property  
+  - Luxury goods
+
+- **Strategic interventions** during this period can maximize card adoption and revenue:
+
+### 📌 Recommendations
+- Launch targeted festive campaigns with **EMI & cashback offers**  
+- Focus on **metro / high-income segments** with personalized **card limits & rewards**  
+- Leverage **historical data** for predictive offers and reactivation of dormant cardholders  
+- Encourage both **offline and online POS usage** through loyalty programs
 
 🎯 Outcome: Data-driven insights enable increased card adoption, higher transaction volume, and optimized marketing ROI.
 
