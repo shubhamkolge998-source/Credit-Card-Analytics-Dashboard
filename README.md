@@ -3,18 +3,36 @@ Excited to share my latest data analytics project, where I built a dynamic Credi
 
 This interactive dashboard enables banks and financial institutions to make data-driven decisions on customer engagement, revenue growth, and product strategy.
 
-🔍 Key Highlights & KPIs Tracked
-✅ Total Revenue: ₹47.19M | Total Income: ₹488.9M | Interest Earned: ₹6.61M
-✅ Customer Satisfaction Score (CSS): 3.2
-✅ Revenue by Quarter: Q4 leads with ₹14.5M revenue and 173K transactions
-✅ Transaction Mode Analysis:
-• Swipe – ₹36M • Chip – ₹17M • Online – ₹4M
-✅ Spending by Expense Type: Bills, Entertainment, Fuel, Grocery, Food, Travel
-✅ Customer Demographics:
-• Age Group 40–50 dominates usage with ₹25M+
-• Education Level: Graduates lead with ₹23M usage
-• Job Category: Business professionals top with ₹18M revenue
-✅ State-wise Usage: TX, CA, and NY are the top-performing states.
+## 🔍 Key Highlights & KPIs Tracked
+
+- **Total Revenue:** ₹47.19M  
+- **Total Income:** ₹488.9M  
+- **Interest Earned:** ₹6.61M  
+- **Customer Satisfaction Score (CSS):** 3.2
+
+### 📊 Revenue by Quarter
+- **Q4 leads** with ₹14.5M revenue and **173K transactions**
+
+### 💳 Transaction Mode Analysis
+- Swipe – ₹36M  
+- Chip – ₹17M  
+- Online – ₹4M
+
+### 🧾 Spending by Expense Type
+- Bills  
+- Entertainment  
+- Fuel  
+- Grocery  
+- Food  
+- Travel
+
+### 👤 Customer Demographics
+- **Age Group 40–50** dominates usage with ₹25M+  
+- **Education Level:** Graduates lead with ₹23M usage  
+- **Job Category:** Business professionals top with ₹18M revenue
+
+### 🗺️ State-wise Usage
+- Top-performing states: **TX**, **CA**, and **NY**
 
 ✨ Festive Season Insights
 Festivals like Diwali, Ganesh Chaturthi, and Christmas drive a significant surge in spending, with customers purchasing electronics, vehicles, property, and luxury goods.
